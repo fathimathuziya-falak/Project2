@@ -1,3 +1,4 @@
+// This is edited from Git Hub
 // 1. Select the elements using querySelector and their IDs
 const input1 = document.querySelector("#num1");
 const input2 = document.querySelector("#num2");
